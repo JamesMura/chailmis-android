@@ -1,3 +1,5 @@
+screenshot*.png
+test_servers
 .idea
 .gradle
 *.iml
